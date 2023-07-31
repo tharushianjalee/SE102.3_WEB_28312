@@ -1,0 +1,14 @@
+<html>
+<head>
+</head>
+<body>
+<form method= "post" action = "new.php">
+Name :
+<input type = "text" name="user name/"><br>
+Index Number :
+<input type ="number" name="pasword"/>
+<br>
+<input type="submit" name="btn" value="submit"/>
+</form>
+</body>
+</html>
