@@ -1,0 +1,33 @@
+<html> 
+<head> 
+ <style> 
+ body { 
+  background-image: url(https://cdn.thecoolist.com/wp-content/uploads/2021/07/Motivational-Quotes-for-Life.jpg);
+ } 
+ h1{
+     color: red;
+  
+ }
+ 
+ h2{
+     color: white;
+ }
+ .card{
+     background-color: rgba(255 , 255 , 255 , 0.5);
+     width: 400px;
+     height: 250px;
+  } 
+  </style> 
+</head>
+ 
+<body> 
+ <center> 
+   
+   <h1 id"title" >Quotes for Life</h1>
+   <div clas"card"> 
+      <h2>"You only live once, </br> but if you do it right, </br> once is enough" </h2> 
+   </div>
+ </center>  
+ 
+</body> 
+</html
