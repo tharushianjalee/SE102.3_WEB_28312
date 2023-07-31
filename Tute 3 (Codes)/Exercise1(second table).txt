@@ -1,0 +1,16 @@
+<table border ="1" cell spacing ="3" cell padding="3">
+<tr>
+ <th>America </th>
+ <th>Canada </th>
+ <th> Alaska </th>
+</tr>
+<tr>
+ <td colspan="2"><font color="FF0000"><center align> Mexico</center></font> </td>
+ <td rowspan ="3">Jamaica </td>
+</tr>
+<tr>
+<td> <font color="0000ff">California</font></td>
+<td><font color="00ff00"> Brazil</font> </td>
+</tr>
+</table>
+</html>

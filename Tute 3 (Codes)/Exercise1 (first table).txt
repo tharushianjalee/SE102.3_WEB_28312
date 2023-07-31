@@ -1,0 +1,28 @@
+<html>
+<table border ="1" cell spacing="3" cell panding ="3">
+<tr>
+   <th><b> First Name </b></th>
+   <th><b> Last Name</b></th>
+   <th><b> Age </b></th>
+</tr>
+<tr>
+   <td> Amal </td>
+   <td> Franando </td>
+   <td> 39 </td>
+</tr>
+<tr>
+   <td> Sahan </td>
+   <td> Bandara </td>
+   <td> 33 </td>
+</tr>
+<tr>
+   <td> Kamal </td>
+   <td> Perera </td>
+   <td> 36 </td>
+</tr>
+<tr>
+    <td> Nimal </td>
+    <td> Rathnayake </td>
+    <td> 33 </td>
+</tr>
+</table>

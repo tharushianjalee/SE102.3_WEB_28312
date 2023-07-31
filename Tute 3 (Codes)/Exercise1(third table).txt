@@ -1,0 +1,65 @@
+<table border ="10" cell spacing="5" cell pandding ="5" bordercolor="gray">
+<tr>
+  <th colspan="5"bgcolor="gray"><font color= "FFFFFF"><center align><u> Timetable</center></u></font></th>
+</tr>
+<tr>
+ 
+ <th>Monday</th>
+ <th>Tuesday</th>
+ <th>Wednesday</th>
+ <th>Thursday</th>
+ <th>Friday</th>
+</tr>
+<tr>
+ <td rowspan ="2" bgcolor="FFFF00">Maths</td>
+ <td bgcolor="ffff00"> Geography </td>
+ <td rowspan="3"bgcolor="ffff00">  Literature</td>
+ <td bgcolor="ffff00"> Maths</td>
+ <td bgcolor="ffff00"> Drama</td>
+</tr>
+<tr>
+ <td bgcolor="ffff00"> IT</td>
+ <td bgcolor="ffff00"> English</td>
+ <td bgcolor="ffff00"> Dancing</td>
+</tr>
+<tr>
+ <td bgcolor="ffff00"> Sinhala </td>
+ <td rowspan="2" bgcolor="ffff00"> Health </td>
+ <td rowspan="2" bgcolor="ffff00"> Music </td>
+ <td rowspan="2" bgcolor="ffff00"> Religion </td>
+</tr>
+<tr>
+ <td bgcolor="ffff00">English</td>
+ <td bgcolor="ffff00">IT Lab </td>
+ </tr>
+ <td colspan="5" bgcolor="0000ff"><font color="FF0000"><center align><b> I N T E R V A L</b></center></font> </td>
+</tr>
+<tr>
+ <td bgcolor="ffff00">Religion</td>
+ <td bgcolor="ffff00">Maths</td>
+ <td bgcolor="ffff00">Health</td>
+ <td bgcolor="ffff00">Tamil</td>
+ <td bgcolor="ffff00">IT</td>
+</tr>
+<tr>
+ <td rowspan = "2" bgcolor="ffff00">History</td>
+ <td rowspan = "3" bgcolor="ffff00">Drama</td>
+ <td rowspan = "2" bgcolor="ffff00">Library</td>
+ <td bgcolor="ffff00">IT Lab</td>
+ <td bgcolor="ffff00">Tamil</td>
+</tr>
+<tr>
+ <td bgcolor="ffff00">Sinhala</td>
+ <td rowspan = "2" bgcolor="ffff00">Art</td>
+</tr>
+<tr>
+ <td bgcolor="ffff00">Maths</td>
+ <td bgcolor="ffff00">Maths</td>
+ <td bgcolor="ffff00">Science</td>
+</td>
+<tr>
+<td colspan = "5" bgcolor="00ff00"><center>For more details: <u><font color="FF0000"><a href = "www.schoolnet.com/">schoolnet.com/ </u></a></center></font></td>
+</tr>
+
+ 
+
