@@ -1,0 +1,55 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+<title>second form </title>
+</head>
+<body>
+<form action="/submit_form" method="post" style="display: flex; flexdirection: 
+column;">
+ <fieldset>
+ <legend>Car Registration</legend>
+<label for="name"> Owner Name:</label>
+<input type="text" id="name" name="name" required><br>
+<label for="email">Email:</label>
+<input type="email" id="email" name="email" required><br>
+<label for="phone">Phone:</label>
+<input type="tel" id="phone" name="phone" required>
+<br>
+<label for="country">Country:</label>
+<select id="country" name="country">
+<option value="" disabled selected>Select your country</option>
+<option value="Sri Lanka ">Sri Lanka </option>
+<option value="Canada">Canada</option>
+<option value="UK">United Kingdom</option>
+</select>
+<br>
+<label for="model "> Car Model</label>
+<input type="text" id="model " name="model " required>
+<br>
+<label for="year ">Manufacture Year </label>
+<select id="year " name="year ">
+<option value="" disabled selected>Select your year</option>
+<option value="2016 ">2016 </option>
+<option value="2017 ">2017 </option>
+<option value="2018 ">2018 </option>
+</select>
+<br>
+<label>Transmission </label>
+<input type="radio" id="Manual " name=" transmission" value="Manual " 
+required>
+<label for="Manual ">Manual</label>
+<input type="radio" id="Auto" name="Transmission " value="Auto ">
+<label for="Auto">Auto </label>
+<br>
+<label for="message">other </label>
+<textarea id="message" name="message" rows="4" required></textarea>
+<br>
+<input type="checkbox" id="agree " name="agree ">
+<label for="agree ">I agree to the conditions and terms </label><br>
+<button type="submit">Submit</button>
+<button type="reset">Reset</button>
+ </fieldset>
+</form>
+</body>
+</html>
